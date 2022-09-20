@@ -1,0 +1,26 @@
+[
+    {
+        "address": "0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c",
+        "chainId": 2001,
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/9956/large/4943.png",
+        "name": "DaiStablecoin",
+        "symbol": "multiDAI"
+    },
+    {
+        "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
+        "chainId": 2001,
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png",
+        "name": "Ethereum",
+        "symbol": "multiETH"
+    },
+    {
+        "address": "0x461d52769884ca6235b685ef2040f47d30c94eb5",
+        "chainId": 2001,
+        "decimals": 18,
+        "logoURI": "https://occam-x.fi/occamfi.png",
+        "name": "OccamFi",
+        "symbol": "multiOCC"
+    }
+]
