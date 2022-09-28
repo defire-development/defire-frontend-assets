@@ -62,5 +62,39 @@
         "symbol": "MILKY",
         "decimals": 18,
         "logoURI": "https://milky-interface.vercel.app/images/tokens/milky-square.png"
-    }
+    },
+    
+    
+    {
+        "chainId": 200101,
+        "address": "0xce5ec4569b0ec9e9de311db566473234c337c443",
+        "name": "OccamX TestToken",
+        "symbol": "PT",
+        "decimals": 18,
+        "logoURI": "https://milky-interface.vercel.app/images/tokens/milky-square.png"
+    },
+    {
+        "chainId": 200101,
+        "address": "0xb5a2fda777eaeed6a665742acaefd7417140618e",
+        "name": "Nunet",
+        "symbol": "NTX",
+        "decimals": 18,
+        "logoURI": "https://milky-interface.vercel.app/images/tokens/milky-square.png"
+    },
+    {
+        "chainId": 200101,
+        "address": "0xd8717258bc00ba82041394981b0290d7281122de",
+        "name": "Cornucopias",
+        "symbol": "COPI",
+        "decimals": 8,
+        "logoURI": "https://milky-interface.vercel.app/images/tokens/milky-square.png"
+    },
+    {
+        "chainId": 200101,
+        "address": "0x4ad6b6b9a9c817c544d398d297dffbc77d64683b",
+        "name": "Ardana",
+        "symbol": "DANA",
+        "decimals": 18,
+        "logoURI": "https://milky-interface.vercel.app/images/tokens/milky-square.png"
+    },
 ]
