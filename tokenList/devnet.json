@@ -2,8 +2,8 @@
     {
         "chainId": 200101,
         "address": "0x01BbBB9C97FC43e3393E860fc8BbeaD47B6960dB",
-        "name": "milkTADA",
-        "symbol": "milkTADA",
+        "name": "WADA",
+        "symbol": "WADA",
         "decimals": 18,
         "logoURI": ""
     },
