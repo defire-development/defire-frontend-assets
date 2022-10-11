@@ -1,11 +1,11 @@
 [
     {
         "chainId": 200101,
-        "address": "0x65a51E52eCD17B641f8F0D1d56a6c9738951FDC9",
-        "name": "Wrapped ADA",
-        "symbol": "WADA",
+        "address": "0x01BbBB9C97FC43e3393E860fc8BbeaD47B6960dB",
+        "name": "milkTADA",
+        "symbol": "milkTADA",
         "decimals": 18,
-        "logoURI": "https://milky-interface.pages.dev/images/tokens/ada-square.png"
+        "logoURI": ""
     },
     {
         "chainId": 200101,

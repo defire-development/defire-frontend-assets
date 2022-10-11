@@ -1,5 +1,13 @@
 [
     {
+        "address": "0xAE83571000aF4499798d1e3b0fA0070EB3A3E3F9",
+        "chainId": 2001,
+        "decimals": 18,
+        "logoURI": "",
+        "name": "milkADA",
+        "symbol": "milkADA"
+    },
+    {
         "address": "0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c",
         "chainId": 2001,
         "decimals": 18,
