@@ -4,7 +4,7 @@
         "address": "0",
         "chainId": 2001,
         "decimals": 18,
-        "logoURI": "",
+        "logoURI": "https://defire.s3.eu-central-1.amazonaws.com/wada.svg",
         "name": "milkADA",
         "symbol": "milkADA"
     },

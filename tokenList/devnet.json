@@ -5,7 +5,7 @@
         "name": "milkTADA",
         "symbol": "milkTADA",
         "decimals": 18,
-        "logoURI": ""
+        "logoURI": "https://defire.s3.eu-central-1.amazonaws.com/wada.svg"
     },
     {
         "chainId": 200101,
@@ -13,7 +13,7 @@
         "name": "WADA",
         "symbol": "WADA",
         "decimals": 18,
-        "logoURI": ""
+        "logoURI": "https://defire.s3.eu-central-1.amazonaws.com/wada.svg"
     },
     {
         "chainId": 200101,
@@ -21,7 +21,7 @@
         "name": "Test Wrapped ETH",
         "symbol": "WETH-TEST",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/milkyswap/logos/master/token/eth.jpg"
+        "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png"
     },
     {
         "chainId": 200101,
