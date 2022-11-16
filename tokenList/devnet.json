@@ -1,6 +1,14 @@
 [
     {
         "chainId": 200101,
+        "address": "0",
+        "name": "milkTADA",
+        "symbol": "milkTADA",
+        "decimals": 18,
+        "logoURI": ""
+    },
+    {
+        "chainId": 200101,
         "address": "0x01BbBB9C97FC43e3393E860fc8BbeaD47B6960dB",
         "name": "WADA",
         "symbol": "WADA",
@@ -63,8 +71,6 @@
         "decimals": 18,
         "logoURI": "https://milky-interface.vercel.app/images/tokens/milky-square.png"
     },
-    
-    
     {
         "chainId": 200101,
         "address": "0xce5ec4569b0ec9e9de311db566473234c337c443",
