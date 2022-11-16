@@ -158,7 +158,7 @@
       "address": "0xAE83571000aF4499798d1e3b0fA0070EB3A3E3F9",
       "chainId": 2001,
       "decimals": 18,
-      "logoURI": "https://app.occam-x.fi/img/tokens/wada.svg",
+      "logoURI": "https://defire.s3.eu-central-1.amazonaws.com/wada.svg",
       "name": "Wrapped ADA",
       "symbol": "wADA"
     },
