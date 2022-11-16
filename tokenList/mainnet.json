@@ -1,34 +1,286 @@
 [
     {
-        "address": "0xAE83571000aF4499798d1e3b0fA0070EB3A3E3F9",
-        "chainId": 2001,
-        "decimals": 18,
-        "logoURI": "",
-        "name": "WADA",
-        "symbol": "WADA"
+      "address": "0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/9956/large/4943.png",
+      "name": "DaiStablecoin",
+      "symbol": "multiDAI"
     },
     {
-        "address": "0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c",
-        "chainId": 2001,
-        "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/9956/large/4943.png",
-        "name": "DaiStablecoin",
-        "symbol": "multiDAI"
+      "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png",
+      "name": "Ethereum",
+      "symbol": "multiETH"
     },
     {
-        "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
-        "chainId": 2001,
-        "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png",
-        "name": "Ethereum",
-        "symbol": "multiETH"
+      "address": "0x461d52769884ca6235b685ef2040f47d30c94eb5",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://occam-x.fi/occamfi.png",
+      "name": "OccamFi",
+      "symbol": "multiOCC"
     },
     {
-        "address": "0x461d52769884ca6235b685ef2040f47d30c94eb5",
-        "chainId": 2001,
-        "decimals": 18,
-        "logoURI": "https://occam-x.fi/occamfi.png",
-        "name": "OccamFi",
-        "symbol": "multiOCC"
+      "address": "0xb44a9b6905af7c801311e8f4e76932ee959c663c",
+      "chainId": 2001,
+      "decimals": 6,
+      "logoURI": "https://occamx-icons-bucket.s3.eu-central-1.amazonaws.com/icons/USD_Coin_icon.png",
+      "name": "USDCoin",
+      "symbol": "multiUSDC"
+    },
+    {
+      "address": "0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844",
+      "chainId": 2001,
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png",
+      "name": "TetherUSD",
+      "symbol": "multiUSDT"
+    },
+    {
+      "address": "0x6ab6d61428fde76768d7b45d8bfeec19c6ef91a8",
+      "chainId": 2001,
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png",
+      "name": "WrappedBTC",
+      "symbol": "multiWBTC"
+    },
+    {
+      "address": "0xFbdd194376de19a88118e84E279b977f165d01b8",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
+      "name": "Binance Smart Chain",
+      "symbol": "multiBNB"
+    },
+    {
+      "address": "0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png",
+      "name": "Binance USD",
+      "symbol": "multiBUSD"
+    },
+    
+    {
+      "address": "0x3795C36e7D12A8c252A20C5a7B455f7c57b60283",
+      "chainId": 2001,
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png",
+      "name": "Tether USD",
+      "symbol": "ceUSDT"
+    },
+    {
+      "address": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+      "chainId": 2001,
+      "decimals": 6,
+      "logoURI": "https://occamx-icons-bucket.s3.eu-central-1.amazonaws.com/icons/USD_Coin_icon.png",
+      "name": "USD Coin",
+      "symbol": "ceUSDC"
+    },
+    {
+      "address": "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/9956/large/4943.png",
+      "name": "Dai Stablecoin",
+      "symbol": "ceDAI"
+    },
+    {
+      "address": "0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png",
+      "name": "Wrapped Ether",
+      "symbol": "ceWETH"
+    },
+    {
+      "address": "0x8d50a024B2F5593605d3cE8183Ca8969226Fcbf8",
+      "chainId": 2001,
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png",
+      "name": "Wrapped BTC",
+      "symbol": "ceWBTC"
+    },
+    {
+      "address": "0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
+      "name": "Binance Smart Chain",
+      "symbol": "ceBNB"
+    },
+    {
+      "address": "0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png",
+      "name": "Binance USD",
+      "symbol": "ceBUSD"
+    },
+    {
+      "address": "0x8006320739fC281da67Ee62eB9b4Ef8ADD5C903a",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png",
+      "name": "Polygon",
+      "symbol": "ceMATIC"
+    },
+    {
+      "address": "0x86c28C9a6f2DC3C156AA2ad450F0F9d3A5Dec12e",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png",
+      "name": "Avalanche",
+      "symbol": "ceAVAX"
+    },
+    {
+      "address": "0xc3FEc6F18dDb7583DA572374Ca8d11c6F0590dAe",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3513.png",
+      "name": "Fantom",
+      "symbol": "ceFTM"
+    },
+    
+    {
+      "address": "0x42110A5133F91B49E32B671Db86E2C44Edc13832",
+      "chainId": 2001,
+      "decimals": 6,
+      "logoURI": "https://occamx-icons-bucket.s3.eu-central-1.amazonaws.com/icons/USD_Coin_icon.png",
+      "name": "USD Coin",
+      "symbol": "sUSDC"
+    },
+    
+    {
+      "address": "0xAE83571000aF4499798d1e3b0fA0070EB3A3E3F9",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://app.occam-x.fi/img/tokens/wada.svg",
+      "name": "Wrapped ADA",
+      "symbol": "wADA"
+    },
+    {
+      "address": "0x8c008BBA2Dd56b99f4A6aB276bE3a478cB075F0C",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://img.api.cryptorank.io/coins/60x60.blueshift1649250909197.png",
+      "name": "Blueshift",
+      "symbol": "BLUES"
+    },
+    {
+      "address": "0x4D5C63c07463EFa5bb26EE0A6D8C39dd0e3DaBD9",
+      "chainId": 2001,
+      "decimals": 6,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13769.png",
+      "name": "World Mobile Token",
+      "symbol": "WMT"
+    },
+    {
+      "address": "0x386e685B5cBAa7bC06e3Dd2eEcDC56105076e4Fa",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17275.png",
+      "name": "MuesliSwap",
+      "symbol": "MILK"
+    },
+    {
+      "address": "0x9B7c74Aa737FE278795fAB2Ad62dEFDbBAedFBCA",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://occamx-icons-bucket.s3.eu-central-1.amazonaws.com/icons/RavLogoTBG.png",
+      "name": "Ravcube",
+      "symbol": "RAV"
+    },
+    {
+      "address": "0xD81E377E9cd5093CE752366758207Fc61317fC70",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://occamx-icons-bucket.s3.eu-central-1.amazonaws.com/icons/RShareLogoTBG.png",
+      "name": "Ravcube Share",
+      "symbol": "RSHARE"
+    },
+    {
+      "address": "0x13fe17701861b769d58f44c2cEBd918886d3D205",
+      "chainId": 2001,
+      "decimals": 0,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16755.png",
+      "name": "Hosky Token",
+      "symbol": "HOSKY"
+    },
+    {
+      "address": "0x658b95858457549cFC0af513b1b902aB0F6E6946",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11078.png",
+      "name": "Iagon",
+      "symbol": "IAG"
+    },
+    {
+      "address": "0x063A5E4cD5e15ac66ea47134Eb60e6b30A51B2bf",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://www.milkyswap.exchange/images/tokens/milky-square.png",
+      "name": "MilkySwap",
+      "symbol": "MILKY"
+    },
+    {
+      "address": "0xb9c8f0d3254007ee4b98970b94544e473cd610ec",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10238.png",
+      "name": "Mimatic",
+      "symbol": "MAI"
+    },
+    
+    {
+      "address": "0xeA55e366Eb0f4cFAAf8d83dC1fC7286F11b5b1cb",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9904.png",
+      "name": "GeroWallet",
+      "symbol": "GERO"
+    },
+    {
+      "address": "0xdE482b84360c248C0d7260826a8B06a5A837235d",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9991.png",
+      "name": "Charli3",
+      "symbol": "C3"
+    },
+    {
+      "address": "0xa350679eaFDb5836da9A796fF721a1fd8415c75F",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9047.png",
+      "name": "CARD.STARTER",
+      "symbol": "CARDS"
+    },
+    {
+      "address": "0xedd4D7DAa6bf8746997CEbbF974a60B838757601",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://occamx-icons-bucket.s3.eu-central-1.amazonaws.com/icons/624b0bd2f182dc1c51b97250_logo+green-solo.png",
+      "name": "Symbiosis",
+      "symbol": "SIS"
+    },
+    {
+      "address": "0xa325ad468df2676f195a623899953c192e354ae8",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://occamx-icons-bucket.s3.eu-central-1.amazonaws.com/icons/logo-light2x+(1).png",
+      "name": "TRUST Pool Governance Token",
+      "symbol": "TPGX"
+    },
+    {
+      "address": "0xf0c73e6287867baa4f865a17ee711ec989c78ac0",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://occamx-icons-bucket.s3.eu-central-1.amazonaws.com/icons/OCX.svg",
+      "name": "OccamX Protocol Token",
+      "symbol": "OCX"
     }
 ]
