@@ -291,5 +291,13 @@
       "logoURI": "https://occamx-icons-bucket.s3.eu-central-1.amazonaws.com/icons/OCX.svg",
       "name": "OccamX Protocol Token",
       "symbol": "OCX"
+    },
+    {
+      "address": "0xb2c22a9fb4fc02eb9d1d337655ce079a04a526c7",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://defire.s3.eu-central-1.amazonaws.com/deFIRE_mark+(color).svg",
+      "name": "DeFire Token",
+      "symbol": "CWAP"
     }
 ]
